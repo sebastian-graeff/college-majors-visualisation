@@ -1,5 +1,3 @@
-
-
 function scroller(){
     let container = d3.select('body')
     let dispatch = d3.dispatch('active', 'progress');
@@ -23,6 +21,8 @@ function scroller(){
     }
 
     function resize(){
+        // Gets the vertical coordinates of where sections start
+        // on the page so that we can find the nearest one as we scroll
         sectionPositions = [];
         let startPos;
     

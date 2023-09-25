@@ -1,0 +1,409 @@
+name,date,value
+Cook Islands,1995-01-01,5211
+Cook Islands,1996-01-01,5457
+Cook Islands,1997-01-01,5827
+Cook Islands,1998-01-01,6430
+Cook Islands,1999-01-01,6910
+Cook Islands,2000-01-01,7935
+Cook Islands,2001-01-01,10405
+Cook Islands,2002-01-01,9311
+Cook Islands,2003-01-01,8773
+Cook Islands,2004-01-01,10654
+Cook Islands,2005-01-01,12385
+Cook Islands,2006-01-01,11623
+Cook Islands,2007-01-01,12190
+Cook Islands,2008-01-01,10752
+Cook Islands,2009-01-01,12417
+Cook Islands,2010-01-01,9826
+Cook Islands,2011-01-01,11018
+Cook Islands,2012-01-01,8230
+Cook Islands,2013-01-01,7639
+Cook Islands,2014-01-01,7868
+Cook Islands,2015-01-01,8123
+Cook Islands,2016-01-01,8307
+Cook Islands,2017-01-01,10059
+Cook Islands,2018-01-01,8906
+Federated State of Micronesia,1995-01-01,2657
+Federated State of Micronesia,1996-01-01,2948
+Federated State of Micronesia,1997-01-01,2414
+Federated State of Micronesia,1998-01-01,3286
+Federated State of Micronesia,1999-01-01,3279
+Federated State of Micronesia,2000-01-01,4125
+Federated State of Micronesia,2001-01-01,5550
+Federated State of Micronesia,2002-01-01,4476
+Federated State of Micronesia,2003-01-01,5945
+Federated State of Micronesia,2004-01-01,4751
+Federated State of Micronesia,2005-01-01,2605
+Federated State of Micronesia,2006-01-01,1712
+Federated State of Micronesia,2007-01-01,1787
+Federated State of Micronesia,2008-01-01,1415
+Federated State of Micronesia,2009-01-01,2029
+Federated State of Micronesia,2010-01-01,2986
+Federated State of Micronesia,2011-01-01,3653
+Federated State of Micronesia,2012-01-01,3528
+Federated State of Micronesia,2013-01-01,1922
+Federated State of Micronesia,2014-01-01,783
+Federated State of Micronesia,2015-01-01,821
+Federated State of Micronesia,2016-01-01,1127
+Federated State of Micronesia,2017-01-01,1252
+Federated State of Micronesia,2018-01-01,1248
+Fiji,1995-01-01,140997
+Fiji,1996-01-01,140448
+Fiji,1997-01-01,155093
+Fiji,1998-01-01,161402
+Fiji,1999-01-01,166169
+Fiji,2000-01-01,182891
+Fiji,2001-01-01,185922
+Fiji,2002-01-01,218104
+Fiji,2003-01-01,218616
+Fiji,2004-01-01,247458
+Fiji,2005-01-01,231546
+Fiji,2006-01-01,256781
+Fiji,2007-01-01,243135
+Fiji,2008-01-01,238010
+Fiji,2009-01-01,229767
+Fiji,2010-01-01,254037
+Fiji,2011-01-01,250256
+Fiji,2012-01-01,272962
+Fiji,2013-01-01,276411
+Fiji,2014-01-01,277667
+Fiji,2015-01-01,270656
+Fiji,2016-01-01,295209
+Fiji,2017-01-01,294501
+Fiji,2018-01-01,355777
+French Polynesia,1995-01-01,21446
+French Polynesia,1996-01-01,45572
+French Polynesia,1997-01-01,37882
+French Polynesia,1998-01-01,45378
+French Polynesia,1999-01-01,46298
+French Polynesia,2000-01-01,50108
+French Polynesia,2001-01-01,49327
+French Polynesia,2002-01-01,52264
+French Polynesia,2003-01-01,45161
+French Polynesia,2004-01-01,41695
+French Polynesia,2005-01-01,37958
+French Polynesia,2006-01-01,38441
+French Polynesia,2007-01-01,44589
+French Polynesia,2008-01-01,41884
+French Polynesia,2009-01-01,40087
+French Polynesia,2010-01-01,35936
+French Polynesia,2011-01-01,35606
+French Polynesia,2012-01-01,40193
+French Polynesia,2013-01-01,39674
+French Polynesia,2014-01-01,39389
+French Polynesia,2015-01-01,35438
+French Polynesia,2016-01-01,29690
+French Polynesia,2017-01-01,28101
+French Polynesia,2018-01-01,30161
+Kiribati,1995-01-01,12626
+Kiribati,1996-01-01,13714
+Kiribati,1997-01-01,11744
+Kiribati,1998-01-01,16928
+Kiribati,1999-01-01,18286
+Kiribati,2000-01-01,11324
+Kiribati,2001-01-01,10938
+Kiribati,2002-01-01,12599
+Kiribati,2003-01-01,9752
+Kiribati,2004-01-01,17685
+Kiribati,2005-01-01,16997
+Kiribati,2006-01-01,18642
+Kiribati,2007-01-01,12838
+Kiribati,2008-01-01,10746
+Kiribati,2009-01-01,10946
+Kiribati,2010-01-01,10449
+Kiribati,2011-01-01,14153
+Kiribati,2012-01-01,12093
+Kiribati,2013-01-01,13431
+Kiribati,2014-01-01,13013
+Kiribati,2015-01-01,12428
+Kiribati,2016-01-01,12582
+Kiribati,2017-01-01,4592
+Kiribati,2018-01-01,3406
+Marshall Islands,1995-01-01,403
+Marshall Islands,1996-01-01,642
+Marshall Islands,1997-01-01,924
+Marshall Islands,1998-01-01,996
+Marshall Islands,1999-01-01,947
+Marshall Islands,2000-01-01,508
+Marshall Islands,2001-01-01,356
+Marshall Islands,2002-01-01,581
+Marshall Islands,2003-01-01,773
+Marshall Islands,2004-01-01,510
+Marshall Islands,2005-01-01,1030
+Marshall Islands,2006-01-01,941
+Marshall Islands,2007-01-01,1232
+Marshall Islands,2008-01-01,1130
+Marshall Islands,2009-01-01,1197
+Marshall Islands,2010-01-01,1190
+Marshall Islands,2011-01-01,181
+Marshall Islands,2012-01-01,312
+Marshall Islands,2013-01-01,708
+Marshall Islands,2014-01-01,785
+Marshall Islands,2015-01-01,725
+Marshall Islands,2016-01-01,729
+Marshall Islands,2017-01-01,573
+Marshall Islands,2018-01-01,721
+Nauru,1995-01-01,3915
+Nauru,1996-01-01,3094
+Nauru,1997-01-01,3029
+Nauru,1998-01-01,2270
+Nauru,1999-01-01,2580
+Nauru,2000-01-01,3710
+Nauru,2001-01-01,3382
+Nauru,2002-01-01,4162
+Nauru,2003-01-01,2430
+Nauru,2004-01-01,2021
+Nauru,2005-01-01,1474
+Nauru,2006-01-01,1387
+Nauru,2007-01-01,1276
+Nauru,2008-01-01,1227
+Nauru,2009-01-01,1171
+Nauru,2010-01-01,1012
+Nauru,2011-01-01,985
+Nauru,2012-01-01,1274
+Nauru,2013-01-01,6391
+Nauru,2014-01-01,10292
+Nauru,2015-01-01,3248
+Nauru,2016-01-01,4852
+Nauru,2017-01-01,4388
+Nauru,2018-01-01,5197
+New Caledonia,1995-01-01,43832
+New Caledonia,1996-01-01,41495
+New Caledonia,1997-01-01,46500
+New Caledonia,1998-01-01,41717
+New Caledonia,1999-01-01,61991
+New Caledonia,2000-01-01,65298
+New Caledonia,2001-01-01,49261
+New Caledonia,2002-01-01,63559
+New Caledonia,2003-01-01,69279
+New Caledonia,2004-01-01,73097
+New Caledonia,2005-01-01,75454
+New Caledonia,2006-01-01,75774
+New Caledonia,2007-01-01,86193
+New Caledonia,2008-01-01,91475
+New Caledonia,2009-01-01,85414
+New Caledonia,2010-01-01,91330
+New Caledonia,2011-01-01,93076
+New Caledonia,2012-01-01,81454
+New Caledonia,2013-01-01,84761
+New Caledonia,2014-01-01,80767
+New Caledonia,2015-01-01,57070
+New Caledonia,2016-01-01,57318
+New Caledonia,2017-01-01,58021
+New Caledonia,2018-01-01,64398
+Niue,1995-01-01,705
+Niue,1996-01-01,674
+Niue,1997-01-01,556
+Niue,1998-01-01,827
+Niue,1999-01-01,713
+Niue,2000-01-01,1159
+Niue,2001-01-01,915
+Niue,2002-01-01,800
+Niue,2003-01-01,550
+Niue,2004-01-01,1004
+Niue,2005-01-01,1061
+Niue,2006-01-01,1682
+Niue,2007-01-01,1229
+Niue,2008-01-01,1293
+Niue,2009-01-01,988
+Niue,2010-01-01,583
+Niue,2011-01-01,603
+Niue,2012-01-01,643
+Niue,2013-01-01,587
+Niue,2014-01-01,578
+Niue,2015-01-01,539
+Niue,2016-01-01,627
+Niue,2017-01-01,809
+Niue,2018-01-01,707
+Palau,1995-01-01,53
+Palau,1996-01-01,69
+Palau,1997-01-01,72
+Palau,1998-01-01,4
+Palau,1999-01-01,29
+Palau,2000-01-01,10
+Palau,2001-01-01,38
+Palau,2002-01-01,40
+Palau,2003-01-01,71
+Palau,2004-01-01,50
+Palau,2005-01-01,181
+Palau,2006-01-01,81
+Palau,2007-01-01,598
+Palau,2008-01-01,354
+Palau,2009-01-01,134
+Palau,2010-01-01,94
+Palau,2011-01-01,711
+Palau,2012-01-01,442
+Palau,2013-01-01,433
+Palau,2014-01-01,401
+Palau,2015-01-01,584
+Palau,2016-01-01,415
+Palau,2017-01-01,298
+Palau,2018-01-01,220
+Papua New Guinea,1995-01-01,190566
+Papua New Guinea,1996-01-01,216701
+Papua New Guinea,1997-01-01,226420
+Papua New Guinea,1998-01-01,231346
+Papua New Guinea,1999-01-01,231790
+Papua New Guinea,2000-01-01,223452
+Papua New Guinea,2001-01-01,200640
+Papua New Guinea,2002-01-01,187858
+Papua New Guinea,2003-01-01,210930
+Papua New Guinea,2004-01-01,192186
+Papua New Guinea,2005-01-01,240309
+Papua New Guinea,2006-01-01,215896
+Papua New Guinea,2007-01-01,239528
+Papua New Guinea,2008-01-01,226348
+Papua New Guinea,2009-01-01,227501
+Papua New Guinea,2010-01-01,273892
+Papua New Guinea,2011-01-01,306460
+Papua New Guinea,2012-01-01,305258
+Papua New Guinea,2013-01-01,292515
+Papua New Guinea,2014-01-01,331003
+Papua New Guinea,2015-01-01,326007
+Papua New Guinea,2016-01-01,349124
+Papua New Guinea,2017-01-01,336041
+Papua New Guinea,2018-01-01,382582
+Samoa,1995-01-01,12519
+Samoa,1996-01-01,15131
+Samoa,1997-01-01,13815
+Samoa,1998-01-01,20476
+Samoa,1999-01-01,19341
+Samoa,2000-01-01,19217
+Samoa,2001-01-01,21560
+Samoa,2002-01-01,19737
+Samoa,2003-01-01,17728
+Samoa,2004-01-01,17158
+Samoa,2005-01-01,16307
+Samoa,2006-01-01,19043
+Samoa,2007-01-01,17101
+Samoa,2008-01-01,17311
+Samoa,2009-01-01,19942
+Samoa,2010-01-01,21287
+Samoa,2011-01-01,18397
+Samoa,2012-01-01,16155
+Samoa,2013-01-01,17668
+Samoa,2014-01-01,16974
+Samoa,2015-01-01,16457
+Samoa,2016-01-01,19463
+Samoa,2017-01-01,18846
+Samoa,2018-01-01,20625
+Solomon Islands,1995-01-01,14682
+Solomon Islands,1996-01-01,13174
+Solomon Islands,1997-01-01,17401
+Solomon Islands,1998-01-01,16712
+Solomon Islands,1999-01-01,17542
+Solomon Islands,2000-01-01,12618
+Solomon Islands,2001-01-01,12865
+Solomon Islands,2002-01-01,14747
+Solomon Islands,2003-01-01,10428
+Solomon Islands,2004-01-01,11291
+Solomon Islands,2005-01-01,14750
+Solomon Islands,2006-01-01,14798
+Solomon Islands,2007-01-01,19577
+Solomon Islands,2008-01-01,17188
+Solomon Islands,2009-01-01,21055
+Solomon Islands,2010-01-01,23851
+Solomon Islands,2011-01-01,25682
+Solomon Islands,2012-01-01,23230
+Solomon Islands,2013-01-01,24297
+Solomon Islands,2014-01-01,31080
+Solomon Islands,2015-01-01,36994
+Solomon Islands,2016-01-01,35551
+Solomon Islands,2017-01-01,37327
+Solomon Islands,2018-01-01,43919
+Tonga,1995-01-01,12808
+Tonga,1996-01-01,12315
+Tonga,1997-01-01,12705
+Tonga,1998-01-01,15993
+Tonga,1999-01-01,13240
+Tonga,2000-01-01,13910
+Tonga,2001-01-01,13631
+Tonga,2002-01-01,14214
+Tonga,2003-01-01,11570
+Tonga,2004-01-01,11693
+Tonga,2005-01-01,11287
+Tonga,2006-01-01,11294
+Tonga,2007-01-01,10725
+Tonga,2008-01-01,12000
+Tonga,2009-01-01,11437
+Tonga,2010-01-01,7978
+Tonga,2011-01-01,8737
+Tonga,2012-01-01,9110
+Tonga,2013-01-01,8400
+Tonga,2014-01-01,8421
+Tonga,2015-01-01,8064
+Tonga,2016-01-01,9560
+Tonga,2017-01-01,10512
+Tonga,2018-01-01,9858
+Tuvalu,1995-01-01,950
+Tuvalu,1996-01-01,692
+Tuvalu,1997-01-01,833
+Tuvalu,1998-01-01,1347
+Tuvalu,1999-01-01,1225
+Tuvalu,2000-01-01,1729
+Tuvalu,2001-01-01,1640
+Tuvalu,2002-01-01,2321
+Tuvalu,2003-01-01,1654
+Tuvalu,2004-01-01,2284
+Tuvalu,2005-01-01,2283
+Tuvalu,2006-01-01,3565
+Tuvalu,2007-01-01,1472
+Tuvalu,2008-01-01,2233
+Tuvalu,2009-01-01,1279
+Tuvalu,2010-01-01,691
+Tuvalu,2011-01-01,683
+Tuvalu,2012-01-01,601
+Tuvalu,2013-01-01,453
+Tuvalu,2014-01-01,394
+Tuvalu,2015-01-01,386
+Tuvalu,2016-01-01,502
+Tuvalu,2017-01-01,499
+Tuvalu,2018-01-01,435
+Vanuatu,1995-01-01,5878
+Vanuatu,1996-01-01,7016
+Vanuatu,1997-01-01,6838
+Vanuatu,1998-01-01,8411
+Vanuatu,1999-01-01,8400
+Vanuatu,2000-01-01,8775
+Vanuatu,2001-01-01,8579
+Vanuatu,2002-01-01,9840
+Vanuatu,2003-01-01,8681
+Vanuatu,2004-01-01,9431
+Vanuatu,2005-01-01,8057
+Vanuatu,2006-01-01,7485
+Vanuatu,2007-01-01,8866
+Vanuatu,2008-01-01,9843
+Vanuatu,2009-01-01,10331
+Vanuatu,2010-01-01,11615
+Vanuatu,2011-01-01,12275
+Vanuatu,2012-01-01,9803
+Vanuatu,2013-01-01,9294
+Vanuatu,2014-01-01,9551
+Vanuatu,2015-01-01,9934
+Vanuatu,2016-01-01,11687
+Vanuatu,2017-01-01,13090
+Vanuatu,2018-01-01,14701
+Wallis and Futuna Islands,1995-01-01,2824
+Wallis and Futuna Islands,1996-01-01,3178
+Wallis and Futuna Islands,1997-01-01,2633
+Wallis and Futuna Islands,1998-01-01,2988
+Wallis and Futuna Islands,1999-01-01,2909
+Wallis and Futuna Islands,2000-01-01,4440
+Wallis and Futuna Islands,2001-01-01,4400
+Wallis and Futuna Islands,2002-01-01,4631
+Wallis and Futuna Islands,2003-01-01,4961
+Wallis and Futuna Islands,2004-01-01,4024
+Wallis and Futuna Islands,2005-01-01,3005
+Wallis and Futuna Islands,2006-01-01,3164
+Wallis and Futuna Islands,2007-01-01,2192
+Wallis and Futuna Islands,2008-01-01,2206
+Wallis and Futuna Islands,2009-01-01,2342
+Wallis and Futuna Islands,2010-01-01,1935
+Wallis and Futuna Islands,2011-01-01,1602
+Wallis and Futuna Islands,2012-01-01,1296
+Wallis and Futuna Islands,2013-01-01,729
+Wallis and Futuna Islands,2014-01-01,773
+Wallis and Futuna Islands,2015-01-01,489
+Wallis and Futuna Islands,2016-01-01,1112
+Wallis and Futuna Islands,2017-01-01,1421
+Wallis and Futuna Islands,2018-01-01,1352

@@ -365,17 +365,8 @@ function draw1(){
     svg.select('.first-axis')
         .attr('opacity', 1)
     
-    svg.selectAll('circle')
-        .transition().duration(500).delay(100)
-        .attr('fill', 'black')
-        .attr('r', 3)
-        .attr('cx', (d, i) => salaryXScale(d.Median)+5)
-        .attr('cy', (d, i) => i * 5.2 + 30)
-
-    svg.selectAll('.small-text').transition()
-        .attr('opacity', 1)
-        .attr('x', margin.left)
-        .attr('y', (d, i) => i * 5.2 + 30)
+    return barchartrace();
+        
 }
 
 
